@@ -1,1 +1,2 @@
 all:
+	latex projet.tex
