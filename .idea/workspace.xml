@@ -39,12 +39,15 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Br1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lBMffNjCLKwKcUUPgbdbkKAbJx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -85,7 +88,42 @@
       <option name="project" value="LOCAL" />
       <updated>1607067021810</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new file &quot;test1&quot;">
+      <created>1607067120454</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607067120454</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create classe header C5">
+      <created>1607067203815</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607067203815</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create classe header C6">
+      <created>1607067244898</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607067244898</updated>
+    </task>
+    <task id="LOCAL-00007" summary="create classe header C7">
+      <created>1607067298814</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607067298814</updated>
+    </task>
+    <task id="LOCAL-00008" summary="create classe header C8">
+      <created>1607067387335</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607067387335</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,7 +142,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="Br1" />
                       </list>
                     </value>
                   </entry>
@@ -115,18 +153,41 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create new class" />
     <MESSAGE value="create un fichier text &quot;test&quot;" />
     <MESSAGE value="new file &quot;test1&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file &quot;test1&quot;" />
+    <MESSAGE value="create classe header C5" />
+    <MESSAGE value="create classe header C6" />
+    <MESSAGE value="create classe header C7" />
+    <MESSAGE value="create classe header C8" />
+    <option name="LAST_COMMIT_MESSAGE" value="create classe header C8" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="384" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607067002894">
+    <state x="384" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607067346619">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
-    <state x="384" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.708@0.23.1280.708" timestamp="1607067002894" />
+    <state x="384" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.708@0.23.1280.708" timestamp="1607067346619" />
+    <state x="240" y="117" key="Vcs.Push.Dialog.v2" timestamp="1607067484718">
+      <screen x="0" y="23" width="1280" height="708" />
+    </state>
+    <state x="240" y="117" key="Vcs.Push.Dialog.v2/0.23.1280.708@0.23.1280.708" timestamp="1607067484718" />
     <state x="394" y="283" key="git4idea.ui.GitStashDialog" timestamp="1607066446038">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
